@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "texto": "Ejemplo",
+      "completada": false
+    },
+    {
+        "id":2,
+        "texto": "Ejemplo2",
+        "completada": true
+    }
+]
